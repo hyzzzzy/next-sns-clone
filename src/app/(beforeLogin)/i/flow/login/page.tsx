@@ -1,9 +1,7 @@
-import styles from './page.module.css'
-
 export default function Home() {
   return (
-    <main className={styles.main}>
-      로그인 페이지
-    </main>
+    <div>
+      로그인 모달
+    </div>
   )
 }
